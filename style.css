@@ -1,0 +1,32 @@
+body {
+	font-family: sf;
+}
+
+
+
+
+.jumbotron {
+	background-color: #2B3784;
+	padding: 4rem;
+
+}
+
+/* product start */
+#product {
+	background-color: #2B3784;
+	padding: 4rem;
+}
+.content {
+	background-color: #2B3784;
+	padding: 4rem;
+}
+
+.navbar-brand {
+	background: linear-gradient(120deg,#447BBE 70.19%,#2B3784 79.69%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.card {
+	border-radius: 10px;
+}
